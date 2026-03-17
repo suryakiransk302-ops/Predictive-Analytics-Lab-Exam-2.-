@@ -1,12 +1,12 @@
 # Predictive-Analytics-Lab-Exam-2.-
 
 
-## 📌 Objective
+## Objective
 The objective of this project is to perform classification using machine learning techniques and evaluate model performance.
 
 ---
 
-## 📊 Dataset
+##  Dataset
 - The dataset used for this project contains features required for classification.
 - It is preprocessed before applying the model.
 
@@ -25,19 +25,19 @@ The objective of this project is to perform classification using machine learnin
 
 ---
 
-## 🤖 Algorithm Used
+## Algorithm Used
 - Naive Bayes / (or mention what you used: Logistic Regression / Decision Tree etc.)
 
 ---
 
-## 📈 Evaluation Metrics
+##  Evaluation Metrics
 - Accuracy  
 - Confusion Matrix  
 - Precision / Recall (if used)
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 - Python  
 - Google Colab / Jupyter Notebook  
 - Libraries:
@@ -48,7 +48,7 @@ The objective of this project is to perform classification using machine learnin
 
 ---
 
-## 📁 Files Included
+##  Files Included
 - `lab_exam_classification_executed.ipynb` → Main notebook  
 - `README.md` → Project description  
 
@@ -66,5 +66,4 @@ The model was successfully trained and evaluated with good performance based on 
 
 ---
 
-## 👤 Author
-- Your Name
+
